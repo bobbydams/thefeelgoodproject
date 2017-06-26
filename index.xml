@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Feel Good Project &lt;3</title>
+    <link>https://bobbydams.github.io/thefeelgoodproject/</link>
+    <description>Recent content on The Feel Good Project &lt;3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>The Feel Good Project &lt;3</copyright>
+    <lastBuildDate>Mon, 26 Jun 2017 23:56:10 +0200</lastBuildDate>
+    
+	<atom:link href="https://bobbydams.github.io/thefeelgoodproject/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome &lt;3</title>
+      <link>https://bobbydams.github.io/thefeelgoodproject/2017/06/26/welcome/</link>
+      <pubDate>Mon, 26 Jun 2017 23:56:10 +0200</pubDate>
+      
+      <guid>https://bobbydams.github.io/thefeelgoodproject/2017/06/26/welcome/</guid>
+      <description>This is our first post. We hope you enjoy the concept we have created here. If you have any ideas for stories, art, performances, or events that can be showcased please don&amp;rsquo;t hesitate to submit them via our Facebook page https://www.facebook.com/TheFeelGoodProjectAMS/ Please like our page and help us make a positive difference for our community. &amp;lt;3</description>
+    </item>
+    
+  </channel>
+</rss>
